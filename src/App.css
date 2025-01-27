@@ -39,15 +39,15 @@ legend {
   font-weight: bold;
   font-size: 2.6em;
   text-transform: uppercase;
-  color: #000000; /* Updated text color */
-  -webkit-background-clip: text; /* Clip the background to the text */
+  color: #000000; 
+  -webkit-background-clip: text;  
   background-clip: text;
-  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2), 0 0 25px rgba(32, 29, 32, 0.6), 0 0 50px rgba(36, 34, 36, 0.8); /* Glowing shadow */
-  letter-spacing: 2px; /* Spacing between letters */
-  text-align: center; /* Center align the text */
-  padding: 10px; /* Padding around the text */
-  border-radius: 5px; /* Rounded corners */
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7); /* Outer glowing shadow */
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2), 0 0 25px rgba(32, 29, 32, 0.6), 0 0 50px rgba(36, 34, 36, 0.8); 
+  letter-spacing: 2px;  
+  text-align: center;  
+  padding: 10px;  
+  border-radius: 5px; 
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);  
 }
 
 
