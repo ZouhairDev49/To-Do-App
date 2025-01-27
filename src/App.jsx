@@ -20,7 +20,7 @@ function App() {
       setCurrentTime(new Date());
     }, 1000);
 
-    return () => clearInterval(timer); // Cleanup on component unmount
+    return () => clearInterval(timer); 
   }, []);
 
   const handleSubmit = (e) => {
